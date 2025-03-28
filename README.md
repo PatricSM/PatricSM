@@ -2,7 +2,7 @@
 
 Sou um Gaúcho apaixonado pelo Chimarrão ou como falamos por aqui (apaixonado pelo Chimas) e não posso esquecer de mencionar também o Xis Coração gaúcho que é uma delicia.
 
-**Desenvolvedor Full-Stack** e me especializando em Node, tenho acumulado algumas experiências com Front End (React e Vue) e Back End (NodeJS e Typescript), buscando sempre desenvolver ainda mais meus conhecimentos com cursos, podcasts, freelas e tudo que puder.
+**Desenvolvedor Full-Stack** e me especializando em Node, tenho acumulado algumas experiências com Front End (React e Vue) e Back End (NodeJS), buscando sempre desenvolver ainda mais meus conhecimentos com cursos, podcasts, freelas e tudo que puder.
 
 
  ## Para me encontrar:
