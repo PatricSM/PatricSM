@@ -17,4 +17,4 @@ Sou um Gaúcho apaixonado pelo Chimarrão ou como falamos por aqui (apaixonado p
 > Seremos amanhã o fruto do que cultivamos hoje.
 
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PatricSM&theme=tokyonight&custom_title=Top%100%Linguagens)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PatricSM&theme=tokyonight&custom_title=Top%20%Linguagens)
