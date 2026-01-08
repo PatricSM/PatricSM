@@ -1,20 +1,61 @@
-# Ola pessoal! 😉 
+# Olá! 👋  
 
-Sou um Gaúcho apaixonado pelo Chimarrão ou como falamos por aqui (apaixonado pelo Chimas) e não posso esquecer de mencionar também o Xis Coração gaúcho que é uma delicia.
+Sou gaúcho, apaixonado por chimarrão (ou melhor, pelo *chimas*) e fã do clássico Xis Coração.  
+Mas, acima de tudo, sou apaixonado por **tecnologia, engenharia de software e construção de produtos digitais sólidos**.
 
-**Desenvolvedor Full-Stack** e me especializando em Node, tenho acumulado algumas experiências com Front End (React e Vue) e Back End (NodeJS), buscando sempre desenvolver ainda mais meus conhecimentos com cursos, podcasts, freelas e tudo que puder.
+Atualmente sou **Sócio Fundador e CEO da CRESZA**, uma **software house especializada em transformar ideias em soluções digitais de alta performance**.
 
+Na CRESZA, lidero projetos de desenvolvimento de software com foco em **qualidade técnica, escalabilidade e resultados reais para os negócios**. Acredito que tecnologia bem aplicada é o motor do crescimento sustentável de qualquer empresa.
 
- ## Para me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patric-martins/)
+Sou **Desenvolvedor Full Stack**, com sólida experiência em todo o ciclo de desenvolvimento — do levantamento de requisitos à entrega em produção — atuando de forma estratégica, conectando **visão de negócio com execução técnica**.
 
-### Email: patric.eu@gmail.com <a href="mailto:patric.eu@gmail.com">:envelope_with_arrow:</a>
+---
 
-## Hard Skills:
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+## 🚀 Áreas de Atuação
 
+- Desenvolvimento Web (React, Next.js, Node.js, TypeScript)
+- Desenvolvimento Mobile (React Native, apps híbridos e PWA)
+- Sistemas personalizados e plataformas SaaS
+- APIs robustas e integrações entre sistemas
+- Inteligência Artificial aplicada a processos de negócio
+- Arquitetura de soluções escaláveis
+- Automação de processos internos
 
-> Seremos amanhã o fruto do que cultivamos hoje.
+---
 
+## 🤖 Tecnologia & IA
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PatricSM&theme=tokyonight&custom_title=Top%20%Linguagens)
+Acompanho de perto as tendências do mercado tech e sou entusiasta da **Inteligência Artificial aplicada ao desenvolvimento de software**.  
+Não vejo a IA como ameaça, mas como uma ferramenta poderosa que potencializa produtividade, qualidade e velocidade de entrega. Quem sabe usar, sai na frente.
+
+Na CRESZA, nosso compromisso é claro: **código limpo, sistemas performáticos, soluções seguras e bem arquitetadas**.  
+Não vendemos pacotes prontos — cada projeto é único e desenvolvido sob medida, respeitando as particularidades de cada negócio.
+
+---
+
+## 📍 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patric-martins/)  
+📧 **Email:** patric.eu@gmail.com
+
+---
+
+## 🧠 Hard Skills
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+> *Seremos amanhã o fruto do que cultivamos hoje.*
+
+---
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PatricSM&theme=tokyonight&custom_title=Top%20Linguagens)
